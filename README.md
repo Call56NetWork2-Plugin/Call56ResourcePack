@@ -1,0 +1,2 @@
+# Call56ResourcePack
+Call56NetWork2専用のCall56ResourcePackだお
